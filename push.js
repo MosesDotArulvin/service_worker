@@ -9,7 +9,7 @@ let vapidKeys = {
     privateKey: 'BGuSYq0Odm67K2TD4FAAGjErAbTfos1ng00ITrb2mjY'
   };
 
-push.setVapidDetails('mosesarulvin@gmail.com',vapidKeys.publicKey,vapidKeys.privateKey);
+push.setVapidDetails('moses.arulvin@binfac.com',vapidKeys.publicKey,vapidKeys.privateKey);
 
 let sub = {};
 
